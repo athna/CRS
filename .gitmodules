@@ -1,0 +1,15 @@
+[submodule "cytrone"]
+	path = cytrone
+	url = https://github.com/crond-jaist/cytrone.git
+[submodule "cyris"]
+	path = cyris
+	url = https://github.com/crond-jaist/cyris.git
+[submodule "cylms"]
+	path = cylms
+	url = https://github.com/crond-jaist/cylms.git
+[submodule "cyprom"]
+	path = cyprom
+	url = https://github.com/crond-jaist/cyprom.git
+[submodule "cytrone-ui-web"]
+	path = cytrone-ui-web
+	url = https://github.com/crond-jaist/cytrone-ui-web.git
